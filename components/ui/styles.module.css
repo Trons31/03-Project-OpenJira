@@ -1,0 +1,11 @@
+
+
+
+.dragin{
+    border: 1px dashed green;
+    border-radius: 10px;
+}
+
+.nodraging{
+    border: 1px dashed red;
+}

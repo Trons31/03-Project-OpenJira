@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#Directorios excluidos para que al subir nuestra aplicacion a nuestro repositorio la carpeta mongo no quede expuesta.
+mongo/
+.env
+
 # dependencies
 /node_modules
 /.pnp
